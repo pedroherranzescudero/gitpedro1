@@ -1,4 +1,4 @@
-# Cambio B "mundo 2"
+# Cambio AB "mundo 12"
 
-name = ARGV.first || "mundo 2"
-puts "Holita, #{name}"
+name = ARGV.first || "mundo 12"
+puts "Hola, #{name}"
