@@ -1,5 +1,5 @@
-# Cambio 2 Default is "mundo chillon"
+# Cambio 3 "mundo incierto"
 
-name = ARGV.first || "mundo chillon"
+name = ARGV.first || "mundo incierto"
 
 puts "Hola, #{name}"
