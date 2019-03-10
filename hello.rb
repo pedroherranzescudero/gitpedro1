@@ -1,5 +1,5 @@
-# Cambio 3 "mundo incierto"
+# Cambio 4 "mundo cruel"
 
-name = ARGV.first || "mundo incierto"
+name = ARGV.first || "mundo cruel"
 
 puts "Hola, #{name}"
