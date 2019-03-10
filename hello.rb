@@ -2,4 +2,4 @@
 
 name = ARGV.first || "mundo chillon"
 
-puts "Hello, #{name}!!!!"
+puts "Hola, #{name}"
