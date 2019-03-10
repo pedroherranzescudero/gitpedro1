@@ -1,5 +1,5 @@
-# Cambio ABCD "mundo 1234"
+# Cambio e "mundo 5"
 
-name = ARGV.first || "mundo 1234"
+name = ARGV.first || "mundo 5"
 puts "Hola, #{name}"
-puts " y Adios"
+
