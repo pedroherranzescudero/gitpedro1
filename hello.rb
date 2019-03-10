@@ -1,4 +1,5 @@
-# Cambio C "mundo 3"
+# Cambio ABC "mundo 123"
 
-name = ARGV.first || "mundo 3"
-puts "Holita, #{name}"
+name = ARGV.first || "mundo 123"
+puts "Hola, #{name}"
+>>>>>>> origin/master
