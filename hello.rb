@@ -1,5 +1,4 @@
-# Cambio 4 "mundo cruel"
+# Cambio 10 "mundo cruel UPM"
 
-name = ARGV.first || "mundo cruel"
-
-puts "Hola, #{name}"
+name = ARGV.first || "mundo cruel UPM"
+puts "Holita, #{name}"
