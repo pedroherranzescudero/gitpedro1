@@ -1,4 +1,4 @@
-# Cambio AB "mundo 12"
+# Cambio D "mundo 4"
 
-name = ARGV.first || "mundo 12"
+name = ARGV.first || "mundo 4"
 puts "Hola, #{name}"
