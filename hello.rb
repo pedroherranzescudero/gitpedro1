@@ -1,6 +1,6 @@
-# CAMBIO EN NUBE y CAMBIO EN TIERRA
+# CAMBIO EN RAMA FEATURE/ADDSTYLE
 
-name = ARGV.first || "mundo, CAMBIO EN NUBE Y CAMBIO EN TIERRA"
+name = ARGV.first || "mundo STYLE"
 puts "Hola, #{name}"
 
 
