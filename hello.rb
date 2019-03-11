@@ -1,6 +1,6 @@
-# Cambio DosLocal
+# Cambio DOSok
 
-name = ARGV.first || "mundo DOSLocal"
+name = ARGV.first || "mundo DOSok"
 puts "Muy buenas, #{name}"
 
 
