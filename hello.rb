@@ -1,6 +1,6 @@
-# Cambio CAMBIO REMOTO + CAMBIO LOCAL : RECONSIDERADOS
+# Cambio CAMBIO LOCAL 2NDA RONDA
 
-name = ARGV.first || "mundo CAMBIO REMOTO + CAMBIO LOCAL"
+name = ARGV.first || "mundo CAMBIO LOCAL 2NDA RONDA"
 puts "Muy buenas, #{name}"
 
 
