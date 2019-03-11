@@ -1,6 +1,6 @@
-# REINICIALIZACION TODO IGUAL
+# CAMBIO ABAJO
 
-name = ARGV.first || "mundo, REINICIALIZACION TODO IGUAL"
+name = ARGV.first || "mundo, CAMBIO ABAJO"
 puts "Hola, #{name}"
 
 
