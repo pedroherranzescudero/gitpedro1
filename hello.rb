@@ -1,6 +1,6 @@
-# Cambio CAMBIOS 2 en REMOTO + 2NDO EN LOCAL
+# REINICIALIZACION TODO IGUAL
 
-name = ARGV.first || "mundo CAMBIO 2 en REMOTO + 2NDO EN LOCAL"
-puts "Muy buenas, #{name}"
+name = ARGV.first || "mundo, REINICIALIZACION TODO IGUAL"
+puts "Hola, #{name}"
 
 
