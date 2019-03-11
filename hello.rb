@@ -1,6 +1,6 @@
-# Cambio SUPERUNIFICANDO RAMAS
+# Cambio CAMBIO LOCAL
 
-name = ARGV.first || "mundo Una sola rama seguro"
+name = ARGV.first || "mundo CAMBIO LOCAL"
 puts "Muy buenas, #{name}"
 
 
