@@ -1,6 +1,6 @@
-# Cambio DOSok
+# Cambio UNIFICANDO RAMAS
 
-name = ARGV.first || "mundo DOSok"
+name = ARGV.first || "mundo Una sola rama"
 puts "Muy buenas, #{name}"
 
 
