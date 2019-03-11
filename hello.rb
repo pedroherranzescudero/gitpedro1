@@ -1,6 +1,6 @@
-# Cambio Uno
+# Cambio DOS
 
-name = ARGV.first || "mundo 56"
+name = ARGV.first || "mundo DOS"
 puts "Muy buenas, #{name}"
 
 
