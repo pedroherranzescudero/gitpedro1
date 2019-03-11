@@ -1,6 +1,6 @@
-# Cambio ef "mundo 56"
+# Cambio Uno
 
 name = ARGV.first || "mundo 56"
-puts "Hola, #{name}"
-puts "y adios, #{name}!!!"
+puts "Muy buenas, #{name}"
+
 
