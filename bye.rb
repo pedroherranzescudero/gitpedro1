@@ -1,6 +1,6 @@
-# creacion de fichero bye.rb
+# Cambio en rama Version1.0
 
-name = ARGV.first || "mundo"
+name = ARGV.first || "mundo version1.0"
 puts "Adio, #{name}"
 
 
